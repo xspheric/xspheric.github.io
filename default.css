@@ -1,18 +1,25 @@
 body {
-    background-color: rgba(45, 68, 100, 1);
+    background-color: rgba(237, 237, 237, 1);
 }
 
 h1 {
-    color: rgba(244, 188, 66, 1);
-    font-family: arial;
+    color: rgba(196, 89, 17, 1);
+    font-family: arial, calibri;
     font-size: 20px;
     font-weight: bold;
     text-align: left;
 }
 
 p  {
-    color: white;
-    font-family: arial;
+    color: rgba(83, 129, 53, 1);
+    font-family: arial, calibri;
+    font-size: 12px;
+    text-align: left;
+}
+
+p1 {
+    color: rgba(47, 84, 150, 1);
+    font-family: arial, calibri;
     font-size: 12px;
     text-align: left;
 }
